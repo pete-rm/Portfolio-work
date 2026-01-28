@@ -1,0 +1,40 @@
+.blue{
+    color: blue;
+    font-weight: bold;
+    font-family: helvetica;
+}
+.frame{
+    
+    width: 100%;
+    background-color: lightcoral;
+}
+.paint{
+    
+    width: 100%;
+    background-color: skyblue;
+}
+.brush{
+   
+    width: 100%;
+    background-color: mediumseagreen;
+}
+
+h1{
+    font-family: helvetica;
+    font-size: 100px;
+    font-weight: bold;
+    color: khaki;
+    text-align: center;
+    background-image: src= "resources/images/pattern.png";
+    
+}
+
+h2{
+    font-family: helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+
+}
+
+
